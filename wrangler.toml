@@ -1,0 +1,5 @@
+name = "auto-BPB"
+main = "_worker.js"
+compatibility_date = "2025-06-26"
+usage_model = "bundled"
+workers_dev = true
