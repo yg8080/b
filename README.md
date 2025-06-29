@@ -2,7 +2,7 @@
 ```TR_PASS```
 ```FALLBACK example.com ```
 ```kv```
-```https://panel.xxx.com/panel```
+```https://xxx.com/panel```
 ```PROXY_IP```
 
 cleanIP/优选IP：
